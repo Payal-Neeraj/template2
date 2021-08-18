@@ -1,0 +1,8 @@
+.navbar{
+    background-color: transparent;
+}
+
+.navbar.colorChange{
+    background-color: #cd853f;
+    height: 70px;
+}
